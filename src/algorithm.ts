@@ -4,4 +4,4 @@ function getBobGreeting(name: string): string {
 
 export default getBobGreeting;
 
-console.log(getBobGreeting("John"));
+console.log(getBobGreeting("Bo"));
